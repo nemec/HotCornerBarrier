@@ -16,7 +16,7 @@ What are cursor barriers?
 
 Cursor barriers prevent the mouse from crossing from one monitor to another. 
 
-[[](res/msdemo.png)](http://blogs.msdn.com/b/b8/archive/2012/05/21/enhancing-windows-8-for-multiple-monitors.aspx)
+[![demoss](res/msdemo.png)](http://blogs.msdn.com/b/b8/archive/2012/05/21/enhancing-windows-8-for-multiple-monitors.aspx)
 
 As you can see in the image above, a small (~6px) section at the top and
   bottom of each monitor is blocked off. If your mouse is in those corners, 
