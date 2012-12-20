@@ -11,6 +11,8 @@ Since the target is a 1x1 pixel, hot corners that are present in the seam
   a feature I've enjoyed in Gnome Shell, cursor barriers, and ported them to
   Windows.
 
+If you just want a download, check out the [downloads](https://github.com/nemec/HotCornerBarrier/tree/downloads) branch.
+
 What are cursor barriers?
 -------------------------
 
